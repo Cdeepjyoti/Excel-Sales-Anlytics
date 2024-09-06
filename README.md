@@ -6,9 +6,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]
+    **1.** Create a _[customer performance report] (https://github.com/Cdeepjyoti/Excel-Sales-Anlytics/blob/main/Deep_AtliQ%20hardwares%20Customer%20Net%20Sales%20Performence_2024-8-30.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets] 
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets] (https://github.com/Cdeepjyoti/Excel-Sales-Anlytics/blob/main/Deep_AtliQ%20hardwares_Market%20Performence%20vs%20Target_2024-8-30.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -21,9 +21,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] and [Countries]
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] and [Countries]  (https://github.com/Cdeepjyoti/Excel-Sales-Anlytics/blob/main/Deep_AtliQ%20hardwares_P%26L(By%20Year)_2024-09-01.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Months & Quaters]
+   **2.** Create Profit and Loss (P&L) reports by _[Months & Quaters] (https://github.com/Cdeepjyoti/Excel-Sales-Anlytics/blob/main/Deep_AtliQ%20hardwares_P%26L(By%20Month)_2024-09-01.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
